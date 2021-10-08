@@ -22,6 +22,7 @@ public class Customelisteners extends Page implements ITestListener{
 	
 	
 	String messagebody;
+	String abc;
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
 		test=rep.startTest(result.getName().toUpperCase());
