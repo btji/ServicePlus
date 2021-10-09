@@ -1,0 +1,9 @@
+08/10/2021 14:08:26 devpinoyLogger config file loaded !!!!!!!!
+08/10/2021 14:08:26 devpinoyLogger OR file loaded !!!!!!!!
+08/10/2021 14:08:31 devpinoyLogger Navigate to: http://serviceonline.gov.in/demopreprod/
+08/10/2021 14:08:31 devpinoyLogger Clicking an element: Loginlink_CSS
+08/10/2021 14:08:41 devpinoyLogger Clicking an element: Frame_ID
+08/10/2021 14:08:42 devpinoyLogger Typing in element: UserName_ID entered value as: JK000115
+08/10/2021 14:08:42 devpinoyLogger Typing in element: Pass_ID entered value as: Admin@123
+08/10/2021 14:08:42 devpinoyLogger Typing in element: Captcha_ID entered value as: jw62ka
+08/10/2021 14:08:42 devpinoyLogger Clicking an element: SuccBtn_CSS
